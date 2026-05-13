@@ -123,6 +123,9 @@ into CleanLecture.
 Boom — distractions gone, productivity boosted, time saved.
 
 
+*Note: CleanLecture-AI does not revise, summarize, or shorten academic content. It only removes non-academic segments from lectures while preserving the actual teaching.*
+
+
 ---
 
 ## 🔥 Features
